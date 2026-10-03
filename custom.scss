@@ -173,7 +173,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  box-shadow: 0 5px 20px rgba($color-black, 0.15);
+  // box-shadow: 0 5px 20px rgba($color-black, 0.15);
   transition: transform 0.3s;
 
   &::before {
